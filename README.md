@@ -1,4 +1,4 @@
-# Freescript
+_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Noname Hub", "Ocean")
